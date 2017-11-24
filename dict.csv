@@ -1,0 +1,121 @@
+1,精神分裂症,Schizophrenia        
+2,脑血管所致精神障碍,Mental disorders due to vascular disease   
+3,癫痫,Epilepsy        
+4,癔症,Hysteria        
+5,焦虑,Anxiety        
+6,焦虑障碍,Anxiety disorder       
+7,焦虑性神经症,Anxiety Neurosis       
+8,器质性焦虑障碍,Organic Anxiety disorder      
+9,情绪问题,Emotional problem       
+10,发育障碍,Developmental Disabilities       
+11,特指进食障碍,Specific To Eating Disorder     
+12,情感问题,Emotional Problems       
+13,情感障碍,Affective Disorder       
+14,疑病障碍,Hypochondriacal disorder       
+15,双相情感障碍,aaaaaaaa     
+16,双向情感障碍,bbbbbbbbb 
+17,双相性情感障碍,Bipolar Affective Disorder      
+18,双相情感障碍，目前为伴有精神病性症状的重度发作,Bipolar Affective Disorder severe attack with psychotic symptoms
+19,双相情感障碍，目前为不伴有精神病性症状的躁狂发作,Bipolar Affective Disorder manic episode without psychotic symptoms
+20,分裂性情感障碍,Schizoaffective Disorder       
+21,恶劣心境,Dysthymia        
+22,躯体形式障碍,Somatoform Disorders       
+23,躯体化障碍,Somatization Disorder       
+24,家庭关系问题,Family Relations Problem      
+25,惊恐发作,Panic Attacks       
+26,精神障碍,Mental Disorders       
+27,躯体疾病所致精神障碍,Mental Disorders Due To Physical Diseases   
+28,轻躁狂,Manic        
+29,癔症性精神病,Hysterical Psychosis       
+30,适应障碍,Adjustment Disorder       
+31,强迫症,Obsessive-Compulsive Disorder       
+32,强迫性思维,Obsessional Thinking       
+33,强迫性障碍,Obsessive-Compulsive Disorder       
+34,强迫性神经症,Obsessive neurosis       
+35,睡行症,Sleep Walking       
+36,抑郁症,Depression        
+37,焦虑性抑郁症,Anxiety depression       
+38,抑郁发作,Depressive Episode       
+39,产后抑郁症,Postpartum Depression       
+40,中度抑郁发作,Moderate Depressive Episode      
+41,轻度抑郁发作,Mild Depressive Episode      
+42,重度抑郁发作,Severe Depressive Episode      
+43,伴有精神病性症状中度抑郁发作,Moderate Depression Episode with psychotic symptoms   
+44,伴有精神病性症状的重度抑郁,Severe Depression Episode with psychotic symptoms   
+45,复发性抑郁障碍,Recurrent Depressive Disorder      
+46,混合型焦虑和抑郁障碍,Mixed Anxiety And Depression Disorder    
+47,更年期忧郁症,Involutional melancholia       
+48,睡眠呼吸暂停,Sleep Apnea       
+49,急性应激反应,Acute Stress Reaction      
+50,鼾症,osahs        
+51,癔正性精神病,Hysterical Psychosis       
+52,广泛性焦虑障碍,Generalized Anxiety Disorder      
+53,甲亢性周期性麻痹,Thyrotoxic Periodic Paralysis      
+54,精神分裂症（偏执型）,Paranoid Schizophrenia        
+55,心境障碍,Mood Disorder       
+56,分离型癔症,Dissociative Hysteria       
+57,分裂情感性精神病,Schizoaffective Psychosis       
+58,失眠,Insomnia        
+59,非器质性失眠症,Non-Organic Insomnia       
+60,睡眠障碍,Sleep disorder       
+61,非器质性睡眠障碍,Non-Organic Sleep disorders      
+62,睡眠-觉醒节律障碍,Sleep- Wake Rhythm Disorders     
+63,应激障碍,Stress Disorder       
+64,创伤后应激障碍,Pst-traumatic stress disorder      
+65,头痛,Headache        
+66,混合型阿尔茨海默病,Mixed Alzheimer's disease      
+67,阿尔茨海默病,Alzheimer's Disease       
+68,性功能障碍,Sexual Dysfunction       
+69,酒精依赖综合征,Alcohol Dependence Syndrome      
+70,帕金森病,Parkinson'S Disease       
+71,社交恐怖,Social Phobia       
+72,精神分裂症后抑郁,Post-Schizophrenic Depression       
+73,心悸病,Palpitation        
+74,恐怖状态,Phobism        
+75,惊恐障碍,Panic disorder       
+76,混合性焦虑与抑郁障碍,Mixed Anxiety And Depressive Disorder    
+77,混合性焦虑抑郁障碍,Mixed Anxiety And Depressive Disorder    
+78,混合性焦虑和抑郁障碍,Mixed Anxiety And Depressive Disorder    
+79,混合型焦虑和抑郁,Mixed Anxiety And Depression     
+80,痴呆,Dementia        
+81,躯体疾病的致精神障碍,Mental Disorders Due To Physical Diseases   
+82,抑郁性精神病,Depressive Psychosis       
+83,脑梗死,Cerebral Infarction       
+84,偏执状态,Paranoid State       
+85,酒精依赖综合症,Alcohol Dependence Syndrome      
+86,进食障碍,Eating Disorder       
+87,妄想性障碍,Delusional Disorder       
+88,神经衰弱,Neurasthenia        
+89,重度抑郁障碍,Severe Depressive Disorder      
+90,人际关系问题,Relationship Problem       
+91,焦虑抑郁障碍,Anxiety And Depressive Disorder     
+92,器质性心境情感障碍,Organic Mood Disorders      
+93,广场恐怖,Agoraphobia        
+94,不伴有精神病性症状的重度抑郁发作,Severe depressive episode without psychiatric symptoms   
+95,神经性耳鸣,Nervous Tinnitus       
+96,混合型阿尔茨海默病性痴呆伴抑郁状态,Mixed Alzheimer's disease with depression    
+97,伴有精神病性症状重度抑郁发作,Severe depressive episode with psychotic symptoms   
+98,慢性发声抽动障碍,Chronic vocal tic disorder     
+99,情绪冲动和紧张状态,Emotional impulse and tension     
+100,神经性贪食,Bulimia nervosa       
+101,器质性情绪不稳定衰弱障碍,Organic emotional instability and weakness    
+102,急性而短暂的精神病性障碍,Acute and transient psychotic disorder    
+103,上呼吸道疾病,Upper respiratory tract diseases     
+104,低钾血症,Hypokalemia        
+105,活动与注意力失调,Activity and attention deficit disorder    
+106,器质性幻觉症,Organic hallucination       
+107,精神障碍的药物,Psychiatric disorder hallucinogens      
+108,精神发育迟缓,Mental retardation       
+109,三叉神经损伤,Injury of trigeminal nerve     
+110,酒精性精神和行为障碍,Alcoholic mental and behavioral disorders    
+111,混合性分离性障碍,Mixed dissociative disorder      
+112,肝功能异常,Hepatic dysfunction       
+113,锥体外系综合征,Extrapyramidal syndrome       
+114,偏执型人格障碍,Paranoid personality disorder      
+115,精神活性物质所致精神和行为障碍,Psychoactive substances caused by mental and behavioral disorders 
+116,轻度认知障碍,Mild cognitive impairment      
+117,糖尿病,Diabetes        
+118,高血压病,Hypertension        
+119,待定,To be determined      
+120,咨询,Consultation        
+121,待查,To be identified
